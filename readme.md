@@ -200,7 +200,7 @@ hobbies:  ["Coding", "Reading Tech Blogs", "Contributing to OSS", "Gaming"]
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://www.linkedin.com/in/prajeeth-mani-89b56b30a" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
